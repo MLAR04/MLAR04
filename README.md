@@ -1,10 +1,11 @@
-# Aloha, Ohana! 🌺
+# Aloha! 🌺
 
 I'm Lourdes, an intergalactic coder from another galaxy, bringing a touch of Stitch's charm to the world of code. 🪐 Welcome to my GitHub 'ohana!
 
-## 🌌 Stitch's Coding Adventures
+## 🌌Coding Adventures
 
-I'm an Ing. Telemática graduate with a Master's degree in Computer Science. I like .... .
+I'm an Ing. Telemática with a Master's degree in Computer Science. 
+I have a strong interest in Computer Vision✨, automatitation👨‍💻, Data Science 📝 and Artificial Intelligence 💻!!!.
 
 ## 🌟 Experimenting and Learning
 <div>
@@ -21,7 +22,9 @@ I'm an Ing. Telemática graduate with a Master's degree in Computer Science. I l
 <img src="https://img.shields.io/badge/C%2B%2B-dodgerblue?style=for-the-badge&logo=C%2B%2B"/>
 <img src="https://img.shields.io/badge/-Python-292e33?style=for-the-badge&logo=python&color=darkblue"/>
 <img src="https://img.shields.io/badge/-flask-292e33?style=for-the-badge&logo=flask&color=darkcyan"/>
-<img src="https://img.shields.io/badge/Pyhttptest-black?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/SQLALCHEMY-black?style=for-the-badge&logo=SQLAlchemy"/>
+
+<img src="https://img.shields.io/badge/Pyhttptest-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-selenium-292e33?style=for-the-badge&logo=selenium&color=grey"/>
 <img src="https://img.shields.io/badge/NumPy-lightseagreen?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Scikit--learn-white?style=for-the-badge&logo=Scikit-learn"/>
@@ -31,14 +34,11 @@ I'm an Ing. Telemática graduate with a Master's degree in Computer Science. I l
 <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb"/>
 
 <img src="https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Postman-lightyellow?style=for-the-badge&logo=Postman"/>
+<img src="https://img.shields.io/badge/Kanboard-midnightblue?style=for-the-badge&logo=kanboard"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </div>
-
-
-## 👾 Fun Fact: Stitch's Antics
-
-In the world of code, just like Stitch, I'm always up to something mischievous and exciting.
 
 
 ## 🚀 Let's Connect!!
@@ -72,6 +72,10 @@ In the world of code, just like Stitch, I'm always up to something mischievous a
 </ul>
 </div>
 
+## 👾 Fun Fact: Stitch's Antics
+
+In the world of code, just like ✨Stitch✨, I'm always up to something mischievous and exciting.
+
 <!--
 **MLAR04/MLAR04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -85,4 +89,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+To make the  logos use:  https://shields.io/badges
 -->
